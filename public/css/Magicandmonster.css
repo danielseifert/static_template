@@ -1,0 +1,19 @@
+h1{
+ font-family: "Helvetica";
+ color: Green;
+
+}
+p{
+ font-size: 20px; 
+}
+
+body {
+
+  background-color: #778899;
+}
+.container{
+ width: 500px;
+  padding: 30px;
+  background-color: 	#008B8B;
+  margin: 0 auto;
+}
