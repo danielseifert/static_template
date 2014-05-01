@@ -1,5 +1,4 @@
 h1{
- font-family: "Helvetica";
   text-align: center;
 }
 p{
@@ -16,9 +15,19 @@ body{
   margin: 0 auto;
 }
 a:hover{
-color: black;  
+color: white; 
+  font-family: Vivaldi;
 }
 a{
 text-decoration: none;
-  color: red;
+  color: black;
+}
+.menu{
+width: 200px;
+  height: 50px;
+  background-color: #181818; 
+  border-radius: 5px;
+  font-size: 30px;
+  text-align: center;
+  display: inline-block;
 }
