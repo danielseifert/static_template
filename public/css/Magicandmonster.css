@@ -1,5 +1,9 @@
 h1{
   text-align: center;
+  font-size: 70px;
+  color: white;
+  opacity: 0.5;
+  font-family: Ludia Blackletter;
 }
 p{
  font-size: 20px; color: brown;
@@ -8,6 +12,7 @@ p{
 
 body{
   background-image: url(http://static.comicvine.com/uploads/original/14/146226/3107092-9282131291-IMG7-.png);
+  background-attachment: fixed;
 }
 .container{
  width: 500px;
@@ -22,7 +27,7 @@ a{
 text-decoration: none;
   color: black;
 }
-.menu{
+.menu {
 width: 200px;
   height: 50px;
   background-color: #181818; 
@@ -30,4 +35,19 @@ width: 200px;
   font-size: 30px;
   text-align: center;
   display: inline-block;
+  border: 5px #00334c solid;
+  scroll: fixed;
+}
+.characters{
+width: 700px;
+  height: 400px;
+  border: 5px brown solid;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 40px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: white;
+  opacity: 0.5;
+  font-size: 50px;
 }
